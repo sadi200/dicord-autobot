@@ -1,7 +1,5 @@
 Clone it =>
-git clone https://github.com/Svz1404/PushDC-NTE.git
 
-cd PushDC-NTE
 
 npm install node-fetch readline-sync fs chalk cfonts
 
