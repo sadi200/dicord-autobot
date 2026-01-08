@@ -16,7 +16,7 @@ node index.js
 
 
 # ১. প্রজেক্ট ফোল্ডারে যান
-cd ~/PushDC-NTE
+
 
 # ২. package.json তৈরি করুন (যদি না থাকে)
 echo '{
